@@ -6,7 +6,9 @@ WebSocket is a protocol for machine-to-machine communication that maintains a TC
 
 The `websockets` package is a Python library for building WebSocket servers and clients. You can install it using pip:
 
+
 `pip install websockets`
+
 
 
 ## WebSocket Server
