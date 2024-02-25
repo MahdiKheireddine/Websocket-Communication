@@ -1,4 +1,4 @@
-Websocket-Communication
+#Websocket-Communication
 WebSocket is a protocol for machine-to-machine communication that maintains a TCP connection open for bi-directional passing of information. It enables a connection between two computers, allowing them to send and receive information. The WebSocket protocol can be configured as a server or client. A WebSocket server listens for requests and returns results based on the input. Additionally, the server can also function as a client by sending information without a specific request.
 
 Installation
